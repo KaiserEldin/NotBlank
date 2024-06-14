@@ -13,12 +13,14 @@ namespace WindowsFormsApp1
         int id = 0;
         User commentator = null;
         string text = "";
+        int rating = 0;
 
-        public Comment(string name, string password, string text)
+        public Comment(string name, string password, string text, int rating)
         {
             id = autoID++;
             commentator = new User(name, password);
             this.text = text;
+            this.rating = rating;
         }
 
         public int getId()
@@ -36,6 +38,14 @@ namespace WindowsFormsApp1
         public string getName()
         {
             return commentator.getName();
+        }
+        public string getRating()
+        {
+            return rating.ToString();
+        }
+        public void setRating(int rating)
+        {
+            this.rating = rating;
         }
     }
 }
