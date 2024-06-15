@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    internal class Comment
+    public class Comment
     {
         static int autoID = 200;
         int id = 0;

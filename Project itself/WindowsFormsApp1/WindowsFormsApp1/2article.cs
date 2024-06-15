@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    internal class Article
+    public class Article
     {
         static int autoID = 100;
         public int id = 0;
@@ -35,6 +35,17 @@ namespace WindowsFormsApp1
         {
             return id;
         }
-
+        public string getText()
+        {
+            return text;
+        }
+        public List<Comment> getComments()
+        {
+            return comments;
+        }
+        public void addComment(Comment comment)
+        {
+            comments.Add(comment);
+        }
     }
 }
