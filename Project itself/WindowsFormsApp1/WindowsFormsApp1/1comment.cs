@@ -22,6 +22,12 @@ namespace WindowsFormsApp1
             this.text = text;
             this.rating = rating;
         }
+        public Comment(User commentator, string text, int rating)
+        {
+            this.commentator = commentator;
+            this.text = text;
+            this.rating = rating;
+        }
 
         public int getId()
         {

@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="0user.cs" />
     <Compile Include="1comment.cs" />
+    <Compile Include="2article.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
