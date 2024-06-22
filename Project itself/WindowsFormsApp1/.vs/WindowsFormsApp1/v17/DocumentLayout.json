@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\Projects\\way1\\NotBlank\\Project itself\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD4C857-9279-4DEE-8744-E3F36DBB1812}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\git\\projects\\way1\\notblank\\project itself\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD4C857-9279-4DEE-8744-E3F36DBB1812}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD4C857-9279-4DEE-8744-E3F36DBB1812}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\git\\Projects\\way1\\NotBlank\\Project itself\\WindowsFormsApp1\\windowsformsapp1\\2article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD4C857-9279-4DEE-8744-E3F36DBB1812}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\2article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD4C857-9279-4DEE-8744-E3F36DBB1812}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\git\\Projects\\way1\\NotBlank\\Project itself\\WindowsFormsApp1\\windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD4C857-9279-4DEE-8744-E3F36DBB1812}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD4C857-9279-4DEE-8744-E3F36DBB1812}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\git\\Projects\\way1\\NotBlank\\Project itself\\WindowsFormsApp1\\windowsformsapp1\\0user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD4C857-9279-4DEE-8744-E3F36DBB1812}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\0user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD4C857-9279-4DEE-8744-E3F36DBB1812}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\git\\Projects\\way1\\NotBlank\\Project itself\\WindowsFormsApp1\\windowsformsapp1\\1comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD4C857-9279-4DEE-8744-E3F36DBB1812}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\1comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD4C857-9279-4DEE-8744-E3F36DBB1812}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\git\\Projects\\way1\\NotBlank\\Project itself\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AD4C857-9279-4DEE-8744-E3F36DBB1812}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\git\\Projects\\way1\\NotBlank\\Project itself\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\git\\Projects\\way1\\NotBlank\\Project itself\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAwwJgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:37:34.994Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\git\\Projects\\way1\\NotBlank\\Project itself\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "D:\\git\\Projects\\way1\\NotBlank\\Project itself\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwCcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:09:42.335Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2article.cs",
+              "DocumentMoniker": "D:\\git\\Projects\\way1\\NotBlank\\Project itself\\WindowsFormsApp1\\WindowsFormsApp1\\2article.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\2article.cs",
+              "ToolTip": "D:\\git\\Projects\\way1\\NotBlank\\Project itself\\WindowsFormsApp1\\WindowsFormsApp1\\2article.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\2article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:33:59.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "1comment.cs",
+              "DocumentMoniker": "D:\\git\\Projects\\way1\\NotBlank\\Project itself\\WindowsFormsApp1\\WindowsFormsApp1\\1comment.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\1comment.cs",
+              "ToolTip": "D:\\git\\Projects\\way1\\NotBlank\\Project itself\\WindowsFormsApp1\\WindowsFormsApp1\\1comment.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\1comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:41:47.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "0user.cs",
+              "DocumentMoniker": "D:\\git\\Projects\\way1\\NotBlank\\Project itself\\WindowsFormsApp1\\WindowsFormsApp1\\0user.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\0user.cs",
+              "ToolTip": "D:\\git\\Projects\\way1\\NotBlank\\Project itself\\WindowsFormsApp1\\WindowsFormsApp1\\0user.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\0user.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:32:34.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\git\\Projects\\way1\\NotBlank\\Project itself\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\git\\Projects\\way1\\NotBlank\\Project itself\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:16:53.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
