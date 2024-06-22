@@ -27,6 +27,8 @@ namespace WindowsFormsApp1
             groupBox5.SuspendLayout();
             panel1.SuspendLayout();
             SuspendLayout();
+
+
             // 
             // groupBox5
             // 
@@ -68,6 +70,12 @@ namespace WindowsFormsApp1
             panel1.Size = new System.Drawing.Size(762, 224);
             panel1.TabIndex = 2;
             createListOfComments(article.getComments(), new Point(15, 250));
+
+
+            groupBox5.ResumeLayout(false);
+            groupBox5.PerformLayout();
+            panel1.ResumeLayout(false);
+            panel1.PerformLayout();
 
             return groupBox5;
         }
@@ -136,6 +144,13 @@ namespace WindowsFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            User gay = new User("goy", "zhid");
+            List<Comment> comments = new List<Comment>();
+            Comment commentee = new Comment(gay, "azazazaz", 4);
+            comments.Add(commentee);
+            Article art = new Article(gay, "poschalkoo", "skibidi toilet", comments);
+
+            this.Controls.Add(createArticle(art, new Point(15,15)));
         }
     }
 }

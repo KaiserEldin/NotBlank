@@ -38,10 +38,6 @@
             Name = "Form1";
             Text = "Blogs";
             Load += new System.EventHandler(this.Form1_Load);
-            groupBox5.ResumeLayout(false);
-            groupBox5.PerformLayout();
-            panel1.ResumeLayout(false);
-            panel1.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
 
